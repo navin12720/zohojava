@@ -50,7 +50,4 @@ public class Set1q2 {
 	        int sqrt = (int) Math.sqrt(num);
 	        return sqrt * sqrt == num;
 	    }
-
-	
-
 }
